@@ -3,8 +3,6 @@ using Couchbase.Extensions.DependencyInjection;
 using KafkaConsumerAPI.Models;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace KafkaConsumerAPI.Services
 {
